@@ -1,0 +1,12 @@
+.con{
+    background: blue;
+    min-height: 50vh;
+}
+.box1{
+    background: green;
+    min-height: 40vh;
+}
+.box2{
+    background: blueviolet;
+    min-height: 40vh;
+}

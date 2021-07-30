@@ -1,0 +1,10 @@
+:root{
+    --light: #fff;
+    --primary: #00183D;
+}
+.bg{
+    background-color: var(--primary);
+}
+.text-white{
+    color: var(--light);
+}
